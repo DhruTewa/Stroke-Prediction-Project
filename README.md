@@ -1,0 +1,2 @@
+# Stroke-Prediction-Project
+Stroke is a major cause of death in the United States every year. With stroke being a common health issue within the United States, it is important to analyze data related to this issue to determine ways to further prevent it from occurring. The dataset that was analyzed focused on a variety of factors and the relationships shared with health-related issues, such as a stroke.
